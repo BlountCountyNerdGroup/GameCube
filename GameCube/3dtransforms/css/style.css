@@ -1,0 +1,18 @@
+section, footer, nav {
+  display: block;
+}
+
+body {
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#options {
+  position: relative;
+  z-index: 100;
+  margin-bottom: 40px;
+}
+
+figure {
+  margin: 0;
+}
