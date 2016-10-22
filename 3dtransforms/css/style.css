@@ -1,0 +1,34 @@
+section, footer, nav {
+  display: block;
+}
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  -webkit-text-size-adjust: none;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+
+#options {
+  position: relative;
+  z-index: 100;
+  margin-bottom: 40px;
+}
+
+figure {
+  margin: 0;
+}
+
+/* index navigation */
+
+.index nav ul a {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 24px;
+  padding: 10px;
+  border: 1px solid #CCC;
+  border-bottom: none;
+}
